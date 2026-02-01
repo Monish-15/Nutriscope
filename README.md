@@ -13,16 +13,12 @@ Nutriscope is a web application developed using TypeScript, Vite, and related we
 ✔️ Easily configurable environment variables
 ✔️ Built with TypeScript for strong typing and maintainability
 
-(Expand this with feature list specific to your app — e.g., search foods, view nutritional info, add favorites, charts, etc.)
 
 ## 🛠️ Tech Stack
 Technology	Role
 TypeScript	Type-safe frontend logic
 Vite	Development server & build tool
 HTML/CSS	UI layout and styling
-AI Studio Integration	Optional deployment target
-
-(Modify based on real stack if you use React, Vue, Tailwind, APIs, etc.)
 
 ## 📁 Project Structure
 Nutriscope/
@@ -82,10 +78,6 @@ Open http://localhost:4173
 ## 🚀 Deployment
 
 Nutriscope can be deployed to platforms that support static sites or Vite apps:
-
-## 🌐 AI Studio
-
-If this project is meant to run on AI Studio (based on the original README content), link it with your studio app and ensure you set environment variables on the platform.
 
 ## 💡 Static Hosts
 
